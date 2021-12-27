@@ -1,0 +1,5 @@
+127.0.0.1 - - [03/Dec/2021:17:09:18 +0100] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:17:09:19 +0100] "GET /RestProject/WEB-INF/classes/fr/insa/soa/RestProject/ClientRest.java HTTP/1.1" 404 605
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:17:09:55 +0100] "GET /RestProject/WEB-INF/ HTTP/1.1" 404 605
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:17:09:55 +0100] "GET /favicon.ico HTTP/1.1" 404 693
+0:0:0:0:0:0:0:1 - - [03/Dec/2021:17:12:12 +0100] "GET /RestProject/webapi/comparator/longueur/Toulouse HTTP/1.1" 200 1

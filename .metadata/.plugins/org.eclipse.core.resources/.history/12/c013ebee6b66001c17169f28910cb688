@@ -1,0 +1,16 @@
+package fr.insa.ms.server.config.ConfigClient.resources;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ClientConfigResource {
+
+	private String serverPort;
+	private String typeConnectionDEDB;
+	private String dbHost;
+	private String dbPort;
+	
+	public String getServerPort() {
+		return serverPort;
+	}
+}
