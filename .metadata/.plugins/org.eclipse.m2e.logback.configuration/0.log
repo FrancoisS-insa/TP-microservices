@@ -7595,3 +7595,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-12-28 16:03:39,612 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\franc\eclipse-workspace\demoWebApp1\src\main\resources
 2021-12-28 16:03:39,615 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-12-28 16:03:39,616 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\franc\eclipse-workspace\demoWebApp1\src\test\resources
+2021-12-28 17:03:32,372 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-28 17:03:32,374 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\franc\eclipse-workspace\demoWebApp1\src\main\resources
+2021-12-28 17:03:32,377 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-28 17:03:32,378 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\franc\eclipse-workspace\demoWebApp1\src\test\resources
